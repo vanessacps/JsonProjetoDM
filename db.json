@@ -1,0 +1,62 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "Vanessa",
+      "cpf": 65899835851,
+      "email": "vcps@gmail.com",
+      "senha": 2525
+    },
+    {
+      "id": 2,
+      "nome": "Felipe",
+      "cpf": 65898777851,
+      "email": "pfsb@gmail.com",
+      "senha": 2526
+    },
+    {
+      "id": 3,
+      "nome": "Marcelo",
+      "cpf": 98762835851,
+      "email": "mrbs@gmail.com",
+      "senha": 2527
+    }
+  ],
+  "contato": [
+    {
+      "id": 1,
+      "nome": "Eduarda",
+      "email": "me@gmail.com",
+      "telefone": 8132530333,
+      "avatar_url": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "nome": "Matias",
+      "email": "matias@gmail.com",
+      "telefone": 8198760333,
+      "avatar_url": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+    },
+    {
+      "id": 3,
+      "nome": "Paulo",
+      "email": "paulo@gmail.com",
+      "telefone": 8132534580,
+      "avatar_url": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+    },
+    {
+      "nome": "maria",
+      "telefone": "81987542186",
+      "email": "m@gmail.com",
+      "avatar_url": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
+      "id": 6
+    },
+    {
+      "nome": "claudia",
+      "telefone": "81933254873",
+      "email": "cla@gmail.com",
+      "avatar_url": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
+      "id": 7
+    }
+  ]
+}
